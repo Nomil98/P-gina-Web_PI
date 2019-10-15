@@ -9,6 +9,7 @@ body{
     padding-top: 50px;
     scroll-padding-bottom: 50px;
     background-color: gray;
+    font-family: 'Lato', sans-serif;
     line-height: 1.8;
     background-image: url(/images/field-background.png);
 }   
@@ -30,13 +31,11 @@ body{
 
 
 .form-group i h2{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
 }
 .form-group p{
     text-align: justify;
     font-size: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: grey;
 }
 .form-group input{
@@ -46,7 +45,6 @@ body{
 }
 .form-container{
     text-align: left;
-    color: ;
 }
 .form-group-date{
     text-align: center;
